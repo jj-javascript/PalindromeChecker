@@ -2,6 +2,9 @@
 
 - An application that lets users input any word and see whether it is a palindrome or not.
 
+## [Live Demo](https://palindromechecker.onrender.com)
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
